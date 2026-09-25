@@ -1,13 +1,20 @@
-PHOTO SOURCES — hs-044-phelps Phelps Construction (Wave 9 2026-09-23 PT)
-Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+PHOTO SOURCES · hs-044-phelps Phelps Construction (CR 2026-09-25 PT rebuild)
+All CC0 / public domain (StockSnap, rawpixel CC0, WordPress Photos CC0, Flickr CC0/PDM via Openverse) or prior verified Wave library.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
 
-hero-site.jpg — residential kitchen or bath remodel (verified Unsplash Wave7)
-services-trade.jpg — kitchen/bath remodel interior (verified)
-job041-* — kitchen B/A typical of this kind of job (verified)
-job038-* — bath B/A typical of this kind of job (verified)
-job052-* — remodel/addition typical of this kind of job (verified)
-people-* — tools/jobsite — NOT owner face
-coverage-house.jpg — residential exterior
-Rejected: stock faces as owner — not used
-Sources: Wave7 Unsplash/Pexels verified 2026-09-23 PT + prior Wave library
-Note: not phelpsconstruction.com (unrelated Inc)
+hero-site.jpg <- cr0925/rem-bath-vanity-window.jpg : Double Vanity with Hexagon Sinks (rawpixel CC0 https://www.rawpixel.com/image/6082593/double-vanity-with-hexagon-sinks)
+services-trade.jpg <- cr0925/rem-house-framed.jpg : House construction (rawpixel CC0 https://www.rawpixel.com/image/6022834/photo-image-frame-public-domain-wood)
+people-crew.jpg <- cr0925/rem-level-hands.jpg : Level Construction (stocksnap CC0 https://stocksnap.io/photo/level-construction-5HW69DS6ER)
+people-marek.jpg <- cr0925/rem-bath-vanity-dark.jpg : rem-bath-vanity-dark (rawpixel CC0 https://www.rawpixel.com/image/5943570/free-public-domain-cc0-photo)
+people-tom.jpg <- cr0925/rem-kitchen-backsplash.jpg : Kitchen. Free public domain CC0 (rawpixel CC0 https://www.rawpixel.com/image/5913397/kitchen-free-public-domain-cc0-photo)
+coverage-house.jpg <- wave11/house-gabled-lawn.jpg : gabled single-family home with lawn (prior verified library wave2/house-suburb.jpg)
+rem-framing-interior.jpg <- cr0925/rem-framing-interior.jpg : House framing (rawpixel CC0 https://www.rawpixel.com/image/4029901/photo-image-wood-construction-building)
+rem-bath-vanity-window.jpg <- cr0925/rem-bath-vanity-window.jpg : Double Vanity with Hexagon Sinks (rawpixel CC0 https://www.rawpixel.com/image/6082593/double-vanity-with-hexagon-sinks)
+rem-demo-lumber.jpg <- cr0925/rem-demo-lumber.jpg : Old boards with nails from home renovation demolition (wordpress CC0 https://wordpress.org/photos/photo/42263030bb/)
+rem-kitchen-dark.jpg <- cr0925/rem-kitchen-dark.jpg : rem-kitchen-dark (rawpixel CC0 https://www.rawpixel.com/image/5947465/free-public-domain-cc0-photo)
+rem-framing-plans.jpg <- cr0925/rem-framing-plans.jpg : Housing rehabilitation (rawpixel CC0 https://www.rawpixel.com/image/9659003/housing-rehabilitation)
+rem-open-dining.jpg <- cr0925/rem-open-dining.jpg : Free modern kitchen image (rawpixel CC0 https://www.rawpixel.com/image/5905580/photo-image-light-public-domain-shadow)
+
+Replaced from the prior build: all photos (prior library had mislabeled trade images and stock faces).
+Note: phelpsconstruction.com is an unrelated Inc; NOT linked or offered. DBA Edward Phelps; use 951-961-1777 per packet (not 855).
