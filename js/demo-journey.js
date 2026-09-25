@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Bath and kitchen remodels, additions, and general building across Highland and the Inland Empire. Edward walks the job first and puts the price in writing.';
+            'Bath and kitchen remodels, additions, and general building in Highland. Edward walks the job first and puts the price in writing.';
         }
       }
     },
